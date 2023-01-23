@@ -1,7 +1,7 @@
 # AlphaRapist - Automated Brute-force attack for Facebook
 
 <p align="center">
-:boom: AlphaRapist is an automated brute force tool to attack a Facebook account. :boom:
+:boom: AlphaRapist is an automated brute-force tool to attack a Facebook account. :boom:
 </p>
 
 ![Screenshot--01](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot-01.png)
@@ -36,12 +36,12 @@ Chrome        | :question: [Not tested]
 Firefox       | :heavy_check_mark: [Work]
 Safari        | :question: [Not tested]
 
-Firefox had its web driver active by default (under Linux, Fedora).
+Firefox had its web driver active by default (under Linux, Debian + Fedora).
 
 
 ```bash
 Chrome:    https://sites.google.com/a/chromium.org/chromedriver/downloads
-Firefox: https://github.com/mozilla/geckodriver/releases
+Firefox:   https://github.com/mozilla/geckodriver/releases
 Safari:    https://webkit.org/blog/6900/webdriver-support-in-safari-10/
 ```
 
@@ -64,5 +64,7 @@ python3 AlphaRapist.py
 
 ![Screenshot--05](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--05.png)
 
+## Video Demo
 
+:clapper: https://youtu.be/s87qRGU9F8s :clapper:
 
