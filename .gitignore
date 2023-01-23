@@ -1,0 +1,2 @@
+# Ignore logs from WebKit
+geckodriver.log
