@@ -38,6 +38,14 @@ Safari        | :question: [Not tested]
 
 Firefox had its web driver active by default (under Linux, Fedora).
 
+
+```bash
+Chrome:    https://sites.google.com/a/chromium.org/chromedriver/downloads
+Firefox: https://github.com/mozilla/geckodriver/releases
+Safari:    https://webkit.org/blog/6900/webdriver-support-in-safari-10/
+```
+
+
 ## Launch
 
 :exclamation: You need a file containing a list of passwords :exclamation:
