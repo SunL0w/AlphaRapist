@@ -2,7 +2,7 @@
 
 :boom: AlphaRapist is an automated brute force tool to attack a Facebook account. :boom:
 
-![Screenshot--01](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--01.png)
+![Screenshot--01](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot-01.png)
 
 ## Disclaimer
 
@@ -42,13 +42,13 @@ python3 AlphaRapist.py
 
 ## Screenshots
 
-![Screenshot--01](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--02.png)
+![Screenshot--02](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--02.png)
 
-![Screenshot--01](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--03.png)
+![Screenshot--03](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--03.png)
 
-![Screenshot--01](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--04.png)
+![Screenshot--04](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--04.png)
 
-![Screenshot--01](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--05.png)
+![Screenshot--05](https://github.com/SunL0w/AlphaRapist/blob/main/Screenshot/Screenshot--05.png)
 
 
 
