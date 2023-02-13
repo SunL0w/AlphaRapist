@@ -174,7 +174,6 @@ sleep(5)
 print("[INITIALIZATION OF ATTACK]")
 print("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
 print()
-#logged_url = "https://www.facebook.com/login.php"            <--[Depreciated]
 
 # Open the file in read mode, read the data and return it as a string
 # split("\n") : splits the resulting string using the newline character 
@@ -193,10 +192,7 @@ print()
 written_email = "0"
 
 def account_rape(target, index, password):
-    # Getting current URL
-    #actual_url = dbrowser.current_url                          <--[Depreciated]
-    # Check if the URL matches with a successful login          
-    #pswd_found = True if actual_url == logged_url else False   <--[Depreciated]
+
     global written_email
 
     # Function get the title of de web page
