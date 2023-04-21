@@ -90,6 +90,8 @@ I am not responsible if it is used to commit illegal actions.
 -------------------------------------------------------------
 '''
 
+# .: Initialization :.
+# -----------------------------------------------------------
 import os
 import subprocess
 import selenium
@@ -103,8 +105,12 @@ if selenium.__version__ < "4.0":
     print("[ERROR]: Selenium version is too old. Please update Selenium to version 4.0 or higher.")
     sys.exit()
 
-# Version of the script
+# .: Version of the script :.
+# -----------------------------------------------------------
 version = "1.0"
+
+# .: Functions :.
+# -----------------------------------------------------------
 
 # Function to detect OS, and clear the console
 def clear_console():
@@ -128,6 +134,9 @@ def print_banner():
     print("Coded by SunL0w")
     print("="*width)
     print()
+    
+# .: Core :.
+# -----------------------------------------------------------
 
 print_banner()
 target=input("Enter the target's email: ")
