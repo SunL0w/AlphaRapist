@@ -25,7 +25,7 @@ cd AlphaRapist
 ```
 :warning: You need Selenium to version 4.0 or higher.
 ```bash
-sudo python3 -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
 ```
 
 :bangbang: You must have an active web driver on your browser. The supported browsers are :
